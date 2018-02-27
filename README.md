@@ -15,3 +15,37 @@ telegram: @echer
 | занятие 2 (4 апреля)  |  ML и DL подходы к кластеризации и классификации текстов. BOW и CBOW. Символьные модели.                                                         | Классификация новостей                                      | Предсказание цены акции по новостям                                 |
 | занятие 2 (11 апреля) | Языковые модели: Марковские цепи, нейронные языковые модели, рекуррентные языковые модели.                                                       | Генерация текстов. Извлечение именованных сущностей.        | Классификация имен по полу                                          |
 | занятие 2 (18 апреля) | Разное: определимся ближе к концу курса, что будет интереснее                                                                                    |                                                             |                                                                     |
+
+
+
+# Рекомендуемые ресурсы
+## На английском
+
+* Jurafsky & Martin (https://web.stanford.edu/~jurafsky/slp3/)
+* Курс Лауры Каллмайер по МО для АОТ (https://user.phil.hhu.de/~kallmeyer/MachineLearning/index.html)
+* Курс Нильса Раймерса по DL для АОТ (https://github.com/UKPLab/deeplearning4nlp-tutorial)
+* Курс в Оксфорде по DL для АОТ (https://github.com/UKPLab/deeplearning4nlp-tutorial)
+* Курс в Стенфорде по DL для AOT (http://cs224d.stanford.edu)
+* Материалы по обучению с подкреплением (Reinforcment Learning) (https://github.com/jiyfeng/rl4nlp)
+
+
+## На русском (и про русский, в основном)
+
+* НКРЯ (http://ruscorpora.ru)
+* Открытый корпус (http://opencorpora.org)
+* Дистрибутивные семантические модели для русского языка (http://rusvectores.org/ru/)
+* Морфология (https://tech.yandex.ru/mystem/)
+* Синтаксис (https://habrahabr.ru/post/317564/)
+* Томита-парсер (https://tech.yandex.ru/tomita/)
+* mathlingvo (http://mathlingvo.ru)
+* nlpub (https://nlpub.ru)
+* Text Visualisation browser (http://textvis.lnu.se)
+
+
+
+## Литература
+
+* Manning, Christopher D., and Hinrich Schütze. Foundations of statistical natural language processing. Vol. 999. Cambridge: MIT press, 1999.
+* Martin, James H., and Daniel Jurafsky. "Speech and language processing." International Edition 710 (2000): 25.
+* Cohen, Shay. "Bayesian analysis in natural language processing." Synthesis Lectures on Human Language Technologies 9, no. 2 (2016): 1-274.
+* Goldberg, Yoav. "Neural Network Methods for Natural Language Processing." Synthesis Lectures on Human Language Technologies 10, no. 1 (2017): 1-309.
