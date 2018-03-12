@@ -35,7 +35,7 @@ nltk.download('punkt')
 * matplotlib
 
 Другое: 
-* docker
+* docker; после установки docker необходимо из командной строки вызвать команды
 ```
 docker pull inemo/syntaxnet_rus
 ```
