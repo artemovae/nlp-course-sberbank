@@ -17,15 +17,14 @@ telegram: @echer
 | занятие 2 (18 апреля) | Разное: определимся ближе к концу курса, что будет интереснее                                                                                    |                                                             |                                                                     |
 
 
-# 14 марта
+## 14 марта
 
 Данные к занятию: [dropbox](https://www.dropbox.com/sh/513tgmhz2ollna5/AAB6W-J3zwKDxKHSUnhjaYINa?dl=0)
 
 Лекция и практика: intro.ipynb
 
 Необходимые библиотеки Python:
-* nltk
-* * после установки nltk необходимо из командной строки Python3 вызвать команды
+* nltk; после установки nltk необходимо из командной строки Python3 вызвать команды
 ```python
 import nltk
 nltk.download('stopwords')
@@ -42,8 +41,8 @@ docker pull inemo/syntaxnet_rus
 ```
 
 
-# Рекомендуемые ресурсы
-## На английском
+## Рекомендуемые ресурсы
+### На английском
 
 * Jurafsky & Martin (https://web.stanford.edu/~jurafsky/slp3/)
 * [Курс Лауры Каллмайер по МО для NLP](https://user.phil.hhu.de/~kallmeyer/MachineLearning/index.html)
@@ -53,7 +52,7 @@ docker pull inemo/syntaxnet_rus
 * [Материалы по обучению с подкреплением](Reinforcment Learning) (https://github.com/jiyfeng/rl4nlp)
 
 
-## На русском (и про русский, в основном)
+### На русском (и про русский, в основном)
 
 * [НКРЯ](http://ruscorpora.ru)
 * [Открытый корпус](http://opencorpora.org)
