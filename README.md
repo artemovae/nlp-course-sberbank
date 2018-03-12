@@ -32,7 +32,7 @@ nltk.download('punkt')
 ```
 * pymystem3
 * pymorphy2
-* bkcharts
+* matplotlib
 
 Другое: 
 * docker
