@@ -44,7 +44,7 @@ docker pull inemo/syntaxnet_rus
 ## Рекомендуемые ресурсы
 ### На английском
 
-* Jurafsky & Martin (https://web.stanford.edu/~jurafsky/slp3/)
+* [Jurafsky & Martin](https://web.stanford.edu/~jurafsky/slp3/)
 * [Курс Лауры Каллмайер по МО для NLP](https://user.phil.hhu.de/~kallmeyer/MachineLearning/index.html)
 * [Курс Нильса Раймерса по DL для NLP](https://github.com/UKPLab/deeplearning4nlp-tutorial)
 * [Курс в Оксфорде по DL для NLP](https://github.com/UKPLab/deeplearning4nlp-tutorial)
