@@ -49,7 +49,7 @@ docker pull inemo/syntaxnet_rus
 * [Курс Нильса Раймерса по DL для NLP](https://github.com/UKPLab/deeplearning4nlp-tutorial)
 * [Курс в Оксфорде по DL для NLP](https://github.com/UKPLab/deeplearning4nlp-tutorial)
 * [Курс в Стенфорде по DL для NLP](http://cs224d.stanford.edu)
-* [Материалы по обучению с подкреплением](Reinforcment Learning) (https://github.com/jiyfeng/rl4nlp)
+* [Материалы по обучению с подкреплением](Reinforcment Learning)(https://github.com/jiyfeng/rl4nlp)
 
 
 ### На русском (и про русский, в основном)
