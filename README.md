@@ -22,6 +22,7 @@ telegram: @echer
 Данные к занятию: [dropbox](https://www.dropbox.com/sh/513tgmhz2ollna5/AAB6W-J3zwKDxKHSUnhjaYINa?dl=0)
 
 Лекция и практика: intro.ipynb
+Домашнее задание: hw1.ipynb
 
 Необходимые библиотеки Python:
 * nltk; после установки nltk необходимо из командной строки Python3 вызвать команды
