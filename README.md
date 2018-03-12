@@ -17,29 +17,53 @@ telegram: @echer
 | занятие 2 (18 апреля) | Разное: определимся ближе к концу курса, что будет интереснее                                                                                    |                                                             |                                                                     |
 
 
+# 14 марта
+
+Данные к занятию: [dropbox](https://www.dropbox.com/sh/513tgmhz2ollna5/AAB6W-J3zwKDxKHSUnhjaYINa?dl=0)
+
+Лекция и практика: intro.ipynb
+
+Необходимые библиотеки Python:
+* nltk
+* * после установки nltk необходимо из командной строки Python3 вызвать команды
+```python
+import nltk
+nltk.download('stopwords')
+nltk.download('punkt')
+```
+* pymystem3
+* pymorphy2
+* bkcharts
+
+Другое: 
+* docker
+```
+docker pull inemo/syntaxnet_rus
+```
+
 
 # Рекомендуемые ресурсы
 ## На английском
 
 * Jurafsky & Martin (https://web.stanford.edu/~jurafsky/slp3/)
-* Курс Лауры Каллмайер по МО для АОТ (https://user.phil.hhu.de/~kallmeyer/MachineLearning/index.html)
-* Курс Нильса Раймерса по DL для АОТ (https://github.com/UKPLab/deeplearning4nlp-tutorial)
-* Курс в Оксфорде по DL для АОТ (https://github.com/UKPLab/deeplearning4nlp-tutorial)
-* Курс в Стенфорде по DL для AOT (http://cs224d.stanford.edu)
-* Материалы по обучению с подкреплением (Reinforcment Learning) (https://github.com/jiyfeng/rl4nlp)
+* [Курс Лауры Каллмайер по МО для NLP](https://user.phil.hhu.de/~kallmeyer/MachineLearning/index.html)
+* [Курс Нильса Раймерса по DL для NLP](https://github.com/UKPLab/deeplearning4nlp-tutorial)
+* [Курс в Оксфорде по DL для NLP](https://github.com/UKPLab/deeplearning4nlp-tutorial)
+* [Курс в Стенфорде по DL для NLP](http://cs224d.stanford.edu)
+* [Материалы по обучению с подкреплением](Reinforcment Learning) (https://github.com/jiyfeng/rl4nlp)
 
 
 ## На русском (и про русский, в основном)
 
-* НКРЯ (http://ruscorpora.ru)
-* Открытый корпус (http://opencorpora.org)
-* Дистрибутивные семантические модели для русского языка (http://rusvectores.org/ru/)
-* Морфология (https://tech.yandex.ru/mystem/)
-* Синтаксис (https://habrahabr.ru/post/317564/)
-* Томита-парсер (https://tech.yandex.ru/tomita/)
-* mathlingvo (http://mathlingvo.ru)
-* nlpub (https://nlpub.ru)
-* Text Visualisation browser (http://textvis.lnu.se)
+* [НКРЯ](http://ruscorpora.ru)
+* [Открытый корпус](http://opencorpora.org)
+* [Дистрибутивные семантические модели для русского языка](http://rusvectores.org/ru/)
+* [Морфология](https://tech.yandex.ru/mystem/)
+* [Синтаксис](https://habrahabr.ru/post/317564/)
+* [Томита-парсер](https://tech.yandex.ru/tomita/)
+* [mathlingvo](http://mathlingvo.ru)
+* [nlpub](https://nlpub.ru)
+* [Text Visualisation browser](http://textvis.lnu.se)
 
 
 
