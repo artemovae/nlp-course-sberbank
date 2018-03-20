@@ -41,6 +41,22 @@ docker pull inemo/syntaxnet_rus
 ```
 
 
+## 20 марта
+
+Данные к занятию: [dropbox](https://www.dropbox.com/sh/513tgmhz2ollna5/AAB6W-J3zwKDxKHSUnhjaYINa?dl=0)
+
+Лекция и практика: intro.ipynb, 2_VSM.ipynb
+
+Необходимые библиотеки Python:
+* natasha
+
+Другое: 
+* docker; после установки docker необходимо из командной строки вызвать команды
+```
+docker pull inemo/syntaxnet_rus
+```
+
+
 ## Рекомендуемые ресурсы
 ### На английском
 
